@@ -21,15 +21,15 @@ Click <i>/help</i> for more details....</b>"""
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """⭕️<b>My Name : TroJanZ Zee5 DL</b>
+    ABOUT_TEXT = """⭕️<b>My Name :  Zee5 DL</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @Sruja_12
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/TroJanzHEX/Zee5-Downloader'>Click Here</a>"""
+⭕️<b>Source Code :</b> 👉 <a href='https://t.me/source_code_of_file_store_bot/2'>Click Here</a>"""
 
 
 
@@ -41,7 +41,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 <i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
 """    
     
-    UPGRADE_TEXT = "PING at @contactHEXbot"
+    UPGRADE_TEXT = "PING at @Sruja_12"
     
     DOWNLOAD_START = "Trying to download to my server. This may take a while 😴"
     
@@ -55,7 +55,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail cleared succesfully."
     
-    SHOW_THUMB = "@TroJanzHEX\n\nUse /delthumb to clear this thumbnail."
+    SHOW_THUMB = "@Sruja_12\n\nUse /delthumb to clear this thumbnail."
     
     NO_THUMB = "SED😕 No saved thumbnails Found!!"
     
